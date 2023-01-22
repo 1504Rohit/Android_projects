@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31289342894",
+    "project_id": "e-voting-c3bc3",
+    "storage_bucket": "e-voting-c3bc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31289342894:android:11d901822598ba2715e63f",
+        "android_client_info": {
+          "package_name": "com.example.e_voting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31289342894-1u0kis4thtgiep48unni8se4r1vbnn39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdj7ihpkuE8YN-Msi_8piJI2IitLxMZ9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31289342894-1u0kis4thtgiep48unni8se4r1vbnn39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
